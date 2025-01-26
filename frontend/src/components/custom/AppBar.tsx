@@ -1,11 +1,6 @@
 import {
   Menubar,
-  MenubarContent,
-  MenubarItem,
   MenubarMenu,
-  MenubarSeparator,
-  MenubarShortcut,
-  MenubarTrigger,
 } from "@/components/ui/menubar";
 import { Avatar, AvatarFallback } from "../ui/avatar";
 import { Link } from "react-router-dom";
